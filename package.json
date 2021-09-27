@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@babel/preset-react": "^7.14.5",
+    "@rails/webpacker": "4.3.0",
+    "antd": "^4.16.13",
+    "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
+    "prop-types": "^15.7.2",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-highlight-words": "^0.17.0",
+    "react-router-dom": "^5.3.0",
+    "react_ujs": "^2.6.1"
+  }
+}
